@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Driver>Lewis Hamilton</Driver>
+    <Nationality>British</Nationality>
+    <Team>Mercedes</Team>
+  </row>
+  <row>
+    <Driver>Sebastian Vettel</Driver>
+    <Nationality>German</Nationality>
+    <Team>Aston Martin</Team>
+  </row>
+  <row>
+    <Driver>Fernando Alonso</Driver>
+    <Nationality>Spanish</Nationality>
+    <Team>Alpine</Team>
+  </row>
+  <row>
+    <Driver>Max Verstappen</Driver>
+    <Nationality>Dutch</Nationality>
+    <Team>Red Bull Racing</Team>
+  </row>
+  <row>
+    <Driver>Sergio Perez</Driver>
+    <Nationality>Mexican</Nationality>
+    <Team>Red Bull Racing</Team>
+  </row>
+  <row>
+    <Driver>Charles Leclerc</Driver>
+    <Nationality>Monegasque</Nationality>
+    <Team>Ferrari</Team>
+  </row>
+  <row>
+    <Driver>Daniel Ricciardo</Driver>
+    <Nationality>Australian</Nationality>
+    <Team>McLaren</Team>
+  </row>
+  <row>
+    <Driver>Valtteri Bottas</Driver>
+    <Nationality>Finnish</Nationality>
+    <Team>Alfa Romeo Racing</Team>
+  </row>
+  <row>
+    <Driver>Kimi Räikkönen</Driver>
+    <Nationality>Finnish</Nationality>
+    <Team>Alfa Romeo Racing</Team>
+  </row>
+  <row>
+    <Driver>Nico Hülkenberg</Driver>
+    <Nationality>German</Nationality>
+    <Team>Aston Martin</Team>
+  </row>
+  <row>
+    <Driver>Carlos Sainz Jr.</Driver>
+    <Nationality>Spanish</Nationality>
+    <Team>Ferrari</Team>
+  </row>
+  <row>
+    <Driver>Lando Norris</Driver>
+    <Nationality>British</Nationality>
+    <Team>McLaren</Team>
+  </row>
+  <row>
+    <Driver>Esteban Ocon</Driver>
+    <Nationality>French</Nationality>
+    <Team>Alpine</Team>
+  </row>
+  <row>
+    <Driver>Pierre Gasly</Driver>
+    <Nationality>French</Nationality>
+    <Team>AlphaTauri</Team>
+  </row>
+  <row>
+    <Driver>Lance Stroll</Driver>
+    <Nationality>Canadian</Nationality>
+    <Team>Aston Martin</Team>
+  </row>
+  <row>
+    <Driver>George Russell</Driver>
+    <Nationality>British</Nationality>
+    <Team>Williams</Team>
+  </row>
+  <row>
+    <Driver>Yuki Tsunoda</Driver>
+    <Nationality>Japanese</Nationality>
+    <Team>AlphaTauri</Team>
+  </row>
+  <row>
+    <Driver>Antonio Giovinazzi</Driver>
+    <Nationality>Italian</Nationality>
+    <Team>Alfa Romeo Racing</Team>
+  </row>
+  <row>
+    <Driver>Nicholas Latifi</Driver>
+    <Nationality>Canadian</Nationality>
+    <Team>Williams</Team>
+  </row>
+  <row>
+    <Driver>Mick Schumacher</Driver>
+    <Nationality>German</Nationality>
+    <Team>Haas</Team>
+  </row>
+  <row>
+    <Driver>Nikita Mazepin</Driver>
+    <Nationality>Russian</Nationality>
+    <Team>Haas</Team>
+  </row>
+</data>

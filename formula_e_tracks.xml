@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Circuit>Ad Diriyah Street Circuit</Circuit>
+    <Country>Saudi Arabia</Country>
+  </row>
+  <row>
+    <Circuit>Albert Park Street Circuit</Circuit>
+    <Country>Australia</Country>
+  </row>
+  <row>
+    <Circuit>Autódromo Hermanos Rodríguez</Circuit>
+    <Country>Mexico</Country>
+  </row>
+  <row>
+    <Circuit>Battersea Park Street Circuit</Circuit>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Beijing Olympic Green Circuit</Circuit>
+    <Country>China</Country>
+  </row>
+  <row>
+    <Circuit>Berlin Tempelhof Airport Street Circuit</Circuit>
+    <Country>Germany</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Ricardo Tormo</Circuit>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Circuit des Invalides</Circuit>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Moulay El Hassan</Circuit>
+    <Country>Morocco</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Park Zandvoort</Circuit>
+    <Country>Netherlands</Country>
+  </row>
+  <row>
+    <Circuit>Circuito Cittadino dell'EUR</Circuit>
+    <Country>Italy</Country>
+  </row>
+  <row>
+    <Circuit>Circuito de Punta del Este</Circuit>
+    <Country>Uruguay</Country>
+  </row>
+  <row>
+    <Circuit>Circuito de Velocidad Callejero</Circuit>
+    <Country>Argentina</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Monaco</Circuit>
+    <Country>Monaco</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Trois-Rivières</Circuit>
+    <Country>Canada</Country>
+  </row>
+  <row>
+    <Circuit>City Walk Street Circuit</Circuit>
+    <Country>United Arab Emirates</Country>
+  </row>
+  <row>
+    <Circuit>ExCeL London Street Circuit</Circuit>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Hermanos Rodríguez Street Circuit</Circuit>
+    <Country>Mexico</Country>
+  </row>
+  <row>
+    <Circuit>Hong Kong Central Harbourfront Circuit</Circuit>
+    <Country>Hong Kong</Country>
+  </row>
+  <row>
+    <Circuit>Huangpu Park Street Circuit</Circuit>
+    <Country>China</Country>
+  </row>
+  <row>
+    <Circuit>Long Beach Street Circuit</Circuit>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Marina Bay Street Circuit</Circuit>
+    <Country>Singapore</Country>
+  </row>
+  <row>
+    <Circuit>Marina Circuit</Circuit>
+    <Country>Qatar</Country>
+  </row>
+  <row>
+    <Circuit>Mexico City Street Circuit</Circuit>
+    <Country>Mexico</Country>
+  </row>
+  <row>
+    <Circuit>Monte Carlo Street Circuit</Circuit>
+    <Country>Monaco</Country>
+  </row>
+  <row>
+    <Circuit>Moscow Street Circuit</Circuit>
+    <Country>Russia</Country>
+  </row>
+  <row>
+    <Circuit>Paris Street Circuit</Circuit>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Putrajaya Street Circuit</Circuit>
+    <Country>Malaysia</Country>
+  </row>
+  <row>
+    <Circuit>Red Hook Street Circuit</Circuit>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Riyadh Street Circuit</Circuit>
+    <Country>Saudi Arabia</Country>
+  </row>
+  <row>
+    <Circuit>Rome Street Circuit</Circuit>
+    <Country>Italy</Country>
+  </row>
+  <row>
+    <Circuit>Seoul Street Circuit</Circuit>
+    <Country>South Korea</Country>
+  </row>
+  <row>
+    <Circuit>Suzuka Street Circuit</Circuit>
+    <Country>Japan</Country>
+  </row>
+  <row>
+    <Circuit>Templehof Airport Street Circuit</Circuit>
+    <Country>Germany</Country>
+  </row>
+  <row>
+    <Circuit>Valencia Street Circuit</Circuit>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Yas Marina Circuit</Circuit>
+    <Country>United Arab Emirates</Country>
+  </row>
+</data>

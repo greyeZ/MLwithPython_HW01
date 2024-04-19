@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Driver>Kyle Larson</Driver>
+    <Nationality>American</Nationality>
+    <Team>Hendrick Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Chase Elliott</Driver>
+    <Nationality>American</Nationality>
+    <Team>Hendrick Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Martin Truex Jr.</Driver>
+    <Nationality>American</Nationality>
+    <Team>Joe Gibbs Racing</Team>
+  </row>
+  <row>
+    <Driver>Kevin Harvick</Driver>
+    <Nationality>American</Nationality>
+    <Team>Stewart-Haas Racing</Team>
+  </row>
+  <row>
+    <Driver>Denny Hamlin</Driver>
+    <Nationality>American</Nationality>
+    <Team>Joe Gibbs Racing</Team>
+  </row>
+  <row>
+    <Driver>Joey Logano</Driver>
+    <Nationality>American</Nationality>
+    <Team>Team Penske</Team>
+  </row>
+  <row>
+    <Driver>Ryan Blaney</Driver>
+    <Nationality>American</Nationality>
+    <Team>Team Penske</Team>
+  </row>
+  <row>
+    <Driver>William Byron</Driver>
+    <Nationality>American</Nationality>
+    <Team>Hendrick Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Kyle Busch</Driver>
+    <Nationality>American</Nationality>
+    <Team>Joe Gibbs Racing</Team>
+  </row>
+  <row>
+    <Driver>Alex Bowman</Driver>
+    <Nationality>American</Nationality>
+    <Team>Hendrick Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Austin Dillon</Driver>
+    <Nationality>American</Nationality>
+    <Team>Richard Childress Racing</Team>
+  </row>
+  <row>
+    <Driver>Christopher Bell</Driver>
+    <Nationality>American</Nationality>
+    <Team>Joe Gibbs Racing</Team>
+  </row>
+  <row>
+    <Driver>Brad Keselowski</Driver>
+    <Nationality>American</Nationality>
+    <Team>RFK Racing</Team>
+  </row>
+  <row>
+    <Driver>Tyler Reddick</Driver>
+    <Nationality>American</Nationality>
+    <Team>Richard Childress Racing</Team>
+  </row>
+  <row>
+    <Driver>Kurt Busch</Driver>
+    <Nationality>American</Nationality>
+    <Team>23XI Racing</Team>
+  </row>
+  <row>
+    <Driver>Michael McDowell</Driver>
+    <Nationality>American</Nationality>
+    <Team>Front Row Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Ryan Newman</Driver>
+    <Nationality>American</Nationality>
+    <Team>RFK Racing</Team>
+  </row>
+  <row>
+    <Driver>Erik Jones</Driver>
+    <Nationality>American</Nationality>
+    <Team>Petty GMS Motorsports</Team>
+  </row>
+  <row>
+    <Driver>Ricky Stenhouse Jr.</Driver>
+    <Nationality>American</Nationality>
+    <Team>JTG Daugherty Racing</Team>
+  </row>
+  <row>
+    <Driver>Chris Buescher</Driver>
+    <Nationality>American</Nationality>
+    <Team>Roush Fenway Racing</Team>
+  </row>
+  <row>
+    <Driver>Matt DiBenedetto</Driver>
+    <Nationality>American</Nationality>
+    <Team>Wood Brothers Racing</Team>
+  </row>
+</data>

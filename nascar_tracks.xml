@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Track>Atlanta Motor Speedway</Track>
+    <Location>Hampton, Georgia</Location>
+    <Length>1.54 mi (2.48 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Auto Club Speedway</Track>
+    <Location>Fontana, California</Location>
+    <Length>2.0 mi (3.22 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Bristol Motor Speedway</Track>
+    <Location>Bristol, Tennessee</Location>
+    <Length>0.533 mi (0.858 km)</Length>
+    <Surface>Concrete</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Charlotte Motor Speedway</Track>
+    <Location>Concord, North Carolina</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Chicagoland Speedway</Track>
+    <Location>Joliet, Illinois</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Daytona International Speedway *</Track>
+    <Location>Daytona Beach, Florida</Location>
+    <Length>2.5 mi (4.02 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Darlington Raceway</Track>
+    <Location>Darlington, South Carolina</Location>
+    <Length>1.366 mi (2.198 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Dover International Speedway</Track>
+    <Location>Dover, Delaware</Location>
+    <Length>1 mi (1.61 km)</Length>
+    <Surface>Concrete</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Homestead-Miami Speedway</Track>
+    <Location>Homestead, Florida</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Indianapolis Motor Speedway *</Track>
+    <Location>Speedway, Indiana</Location>
+    <Length>2.5 mi (4.02 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>ISM Raceway</Track>
+    <Location>Avondale, Arizona</Location>
+    <Length>1 mi (1.61 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Kansas Speedway</Track>
+    <Location>Kansas City, Kansas</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Kentucky Speedway</Track>
+    <Location>Sparta, Kentucky</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Las Vegas Motor Speedway</Track>
+    <Location>Las Vegas, Nevada</Location>
+    <Length>1.5 mi (2.41 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Martinsville Speedway</Track>
+    <Location>Martinsville, Virginia</Location>
+    <Length>0.526 mi (0.847 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Michigan International Speedway</Track>
+    <Location>Brooklyn, Michigan</Location>
+    <Length>2 mi (3.22 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Nashville Superspeedway *</Track>
+    <Location>Lebanon, Tennessee</Location>
+    <Length>1.33 mi (2.14 km)</Length>
+    <Surface>Concrete</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>New Hampshire Motor Speedway</Track>
+    <Location>Loudon, New Hampshire</Location>
+    <Length>1.058 mi (1.703 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>North Wilkesboro Speedway</Track>
+    <Location>North Wilkesboro, North Carolina</Location>
+    <Length>0.625 mi (1.006 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Phoenix Raceway</Track>
+    <Location>Avondale, Arizona</Location>
+    <Length>1 mi (1.61 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Pocono Raceway *</Track>
+    <Location>Long Pond, Pennsylvania</Location>
+    <Length>2.5 mi (4.02 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>3</Turns>
+  </row>
+  <row>
+    <Track>Richmond Raceway</Track>
+    <Location>Richmond, Virginia</Location>
+    <Length>0.75 mi (1.21 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Road America</Track>
+    <Location>Elkhart Lake, Wisconsin</Location>
+    <Length>4.048 mi (6.515 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>14</Turns>
+  </row>
+  <row>
+    <Track>Sonoma Raceway *</Track>
+    <Location>Sonoma, California</Location>
+    <Length>2.52 mi (4.06 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>12</Turns>
+  </row>
+  <row>
+    <Track>South Boston Speedway</Track>
+    <Location>South Boston, Virginia</Location>
+    <Length>0.4 mi (0.64 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Talladega Superspeedway</Track>
+    <Location>Lincoln, Alabama</Location>
+    <Length>2.66 mi (4.28 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Texas Motor Speedway</Track>
+    <Location>Fort Worth, Texas</Location>
+    <Length>2.45 mi (3.95 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+  <row>
+    <Track>Watkins Glen International *</Track>
+    <Location>Watkins Glen, New York</Location>
+    <Length>2.45 mi (3.95 km)</Length>
+    <Surface>Concrete</Surface>
+    <Turns>12</Turns>
+  </row>
+  <row>
+    <Track>World Wide Technology Raceway</Track>
+    <Location>Madison, Illinois</Location>
+    <Length>1.25 mi (2.01 km)</Length>
+    <Surface>Asphalt</Surface>
+    <Turns>4</Turns>
+  </row>
+</data>

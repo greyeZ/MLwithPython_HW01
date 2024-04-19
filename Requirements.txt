@@ -1,0 +1,1 @@
+RequirementsI run the whole project in PyCharm.You need to have python installed and all the dependencies, then it should work.

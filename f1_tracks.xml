@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Circuit>Adelaide Street Circuit</Circuit>
+    <Map/>
+    <Country/>
+  </row>
+  <row>
+    <Circuit>Ain-Diab Circuit</Circuit>
+    <Map/>
+    <Country>Morocco</Country>
+  </row>
+  <row>
+    <Circuit>Aintree Motor Racing Circuit</Circuit>
+    <Map/>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Albert Park Circuit *</Circuit>
+    <Map>Albert Park</Map>
+    <Country>Australia</Country>
+  </row>
+  <row>
+    <Circuit>Algarve International Circuit</Circuit>
+    <Map>Algarve</Map>
+    <Country>Portugal</Country>
+  </row>
+  <row>
+    <Circuit>Autódromo do Estoril</Circuit>
+    <Map>Estoril</Map>
+    <Country>Portugal</Country>
+  </row>
+  <row>
+    <Circuit>Autódromo Hermanos Rodríguez *</Circuit>
+    <Map/>
+    <Country>Mexico</Country>
+  </row>
+  <row>
+    <Circuit>Autódromo Internacional do Rio de Janeiro</Circuit>
+    <Map/>
+    <Country>Brazil</Country>
+  </row>
+  <row>
+    <Circuit>Autodromo Internazionale del Mugello</Circuit>
+    <Map>Mugello</Map>
+    <Country>Italy</Country>
+  </row>
+  <row>
+    <Circuit>Autodromo Internazionale Enzo e Dino Ferrari *</Circuit>
+    <Map/>
+    <Country/>
+  </row>
+  <row>
+    <Circuit>Autódromo José Carlos Pace *</Circuit>
+    <Map/>
+    <Country>Brazil</Country>
+  </row>
+  <row>
+    <Circuit>Autodromo Nazionale di Monza *</Circuit>
+    <Map>Monza</Map>
+    <Country>Italy</Country>
+  </row>
+  <row>
+    <Circuit>Autódromo Oscar y Juan Gálvez</Circuit>
+    <Map/>
+    <Country>Argentina</Country>
+  </row>
+  <row>
+    <Circuit>AVUS</Circuit>
+    <Map/>
+    <Country>Germany</Country>
+  </row>
+  <row>
+    <Circuit>Bahrain International Circuit *</Circuit>
+    <Map>Bahrain</Map>
+    <Country>Bahrain</Country>
+  </row>
+  <row>
+    <Circuit>Baku City Circuit *</Circuit>
+    <Map>Baku</Map>
+    <Country>Azerbaijan</Country>
+  </row>
+  <row>
+    <Circuit>Brands Hatch Circuit</Circuit>
+    <Map/>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Buddh International Circuit</Circuit>
+    <Map>Buddh</Map>
+    <Country>India</Country>
+  </row>
+  <row>
+    <Circuit>Bugatti Au Mans</Circuit>
+    <Map>Bugatti</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Caesars Palace Grand Prix Circuit</Circuit>
+    <Map>Caesars Palace</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Charade Circuit</Circuit>
+    <Map>Charade</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Bremgarten</Circuit>
+    <Map>Bremgarten</Map>
+    <Country>Switzerland</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Barcelona-Catalunya *</Circuit>
+    <Map>Barcelona-Catalunya</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Monaco *</Circuit>
+    <Map>Monaco</Map>
+    <Country>Monaco</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Nevers Magny-Cours</Circuit>
+    <Map>Nevers Magny-Cours</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Pedralbes</Circuit>
+    <Map>Pedralbes</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Reims-Gueux</Circuit>
+    <Map>Reims-Gueux</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit de Spa-Francorchamps *</Circuit>
+    <Map>Spa-Francorchamps</Map>
+    <Country>Belgium</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Dijon-Prenois</Circuit>
+    <Map>Dijon-Prenois</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Gilles-Villeneuve *</Circuit>
+    <Map>Gilles-Villeneuve</Map>
+    <Country>Canada</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Mont-Tremblant</Circuit>
+    <Map>Mont-Tremblant</Map>
+    <Country>Canada</Country>
+  </row>
+  <row>
+    <Circuit>Circuit of the Americas *</Circuit>
+    <Map>Circuit of the Americas</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Paul Ricard</Circuit>
+    <Map>Paul Ricard</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Zandvoort *</Circuit>
+    <Map>Zandvoort</Map>
+    <Country>Netherlands</Country>
+  </row>
+  <row>
+    <Circuit>Circuit Zolder</Circuit>
+    <Map>Zolder</Map>
+    <Country>Belgium</Country>
+  </row>
+  <row>
+    <Circuit>Circuito da Boavista</Circuit>
+    <Map>Boavista</Map>
+    <Country>Portugal</Country>
+  </row>
+  <row>
+    <Circuit>Circuito de Monsanto</Circuit>
+    <Map>Monsanto</Map>
+    <Country>Portugal</Country>
+  </row>
+  <row>
+    <Circuit>Circuito Permanente de Jerez</Circuit>
+    <Map>Jerez</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Circuito Permanente del Jarama</Circuit>
+    <Map>Jarama</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Dallas Fair Park</Circuit>
+    <Map>Dallas Fair Park</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Detroit Street Circuit</Circuit>
+    <Map>Detroit</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Donington Park</Circuit>
+    <Map>Donington Park</Map>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Fuji Speedway</Circuit>
+    <Map>Fuji</Map>
+    <Country>Japan</Country>
+  </row>
+  <row>
+    <Circuit>Hockenheimring</Circuit>
+    <Map>Hockenheim</Map>
+    <Country>Germany</Country>
+  </row>
+  <row>
+    <Circuit>Hungaroring *</Circuit>
+    <Map>Hungaroring</Map>
+    <Country>Hungary</Country>
+  </row>
+  <row>
+    <Circuit>Indianapolis Motor Speedway</Circuit>
+    <Map>Indianapolis</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Intercity Istanbul Park</Circuit>
+    <Map>Istanbul Park</Map>
+    <Country>Turkey</Country>
+  </row>
+  <row>
+    <Circuit>Jeddah Corniche Circuit *</Circuit>
+    <Map>Jeddah Corniche</Map>
+    <Country>Saudi Arabia</Country>
+  </row>
+  <row>
+    <Circuit>Korea International Circuit</Circuit>
+    <Map>Korea</Map>
+    <Country>South Korea</Country>
+  </row>
+  <row>
+    <Circuit>Kyalami Grand Prix Circuit</Circuit>
+    <Map>Kyalami</Map>
+    <Country>South Africa</Country>
+  </row>
+  <row>
+    <Circuit>Las Vegas Strip Circuit *</Circuit>
+    <Map>Las Vegas Strip</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Long Beach Street Circuit</Circuit>
+    <Map>Long Beach</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Lusail International Circuit *</Circuit>
+    <Map>Lusail</Map>
+    <Country>Qatar</Country>
+  </row>
+  <row>
+    <Circuit>Marina Bay Street Circuit *</Circuit>
+    <Map>Marina Bay</Map>
+    <Country>Singapore</Country>
+  </row>
+  <row>
+    <Circuit>Miami International Autodrome *</Circuit>
+    <Map>Miami International</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Montjuïc circuit</Circuit>
+    <Map>Montjuïc</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Mosport International Raceway</Circuit>
+    <Map>Mosport</Map>
+    <Country>Canada</Country>
+  </row>
+  <row>
+    <Circuit>Nivelles-Baulers</Circuit>
+    <Map>Nivelles-Baulers</Map>
+    <Country>Belgium</Country>
+  </row>
+  <row>
+    <Circuit>Nürburgring</Circuit>
+    <Map>Nürburgring</Map>
+    <Country>Germany</Country>
+  </row>
+  <row>
+    <Circuit>Pescara Circuit</Circuit>
+    <Map>Pescara</Map>
+    <Country>Italy</Country>
+  </row>
+  <row>
+    <Circuit>Phoenix Street Circuit</Circuit>
+    <Map>Phoenix</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Prince George Circuit</Circuit>
+    <Map>Prince George</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Red Bull Ring *</Circuit>
+    <Map>Red Bull Ring</Map>
+    <Country>Canada</Country>
+  </row>
+  <row>
+    <Circuit>Riverside International Raceway</Circuit>
+    <Map>Riverside</Map>
+    <Country>Austria</Country>
+  </row>
+  <row>
+    <Circuit>Rouen-Les-Essarts</Circuit>
+    <Map>Rouen-Les-Essarts</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Scandinavian Raceway</Circuit>
+    <Map>Anderstorp</Map>
+    <Country>France</Country>
+  </row>
+  <row>
+    <Circuit>Sebring Raceway</Circuit>
+    <Map>Sebring</Map>
+    <Country>Sweden</Country>
+  </row>
+  <row>
+    <Circuit>Sepang International Circuit</Circuit>
+    <Map>Sepang</Map>
+    <Country>United States</Country>
+  </row>
+  <row>
+    <Circuit>Shanghai International Circuit *</Circuit>
+    <Map>Shanghai</Map>
+    <Country>Malaysia</Country>
+  </row>
+  <row>
+    <Circuit>Silverstone Circuit *</Circuit>
+    <Map>Silverstone</Map>
+    <Country>China</Country>
+  </row>
+  <row>
+    <Circuit>Sochi Autodrom</Circuit>
+    <Map>Sochi</Map>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit>Suzuka International Racing Course *</Circuit>
+    <Map>Suzuka</Map>
+    <Country>Russia</Country>
+  </row>
+  <row>
+    <Circuit>TI Circuit Aida</Circuit>
+    <Map>Aida</Map>
+    <Country>Japan</Country>
+  </row>
+  <row>
+    <Circuit>Valencia Street Circuit</Circuit>
+    <Map>Valencia</Map>
+    <Country>Japan</Country>
+  </row>
+  <row>
+    <Circuit>Watkins Glen International</Circuit>
+    <Map>Watkins Glen</Map>
+    <Country>Japan</Country>
+  </row>
+  <row>
+    <Circuit>Yas Marina Circuit *</Circuit>
+    <Map>Yas Marina</Map>
+    <Country>Spain</Country>
+  </row>
+  <row>
+    <Circuit>Zeltweg Airfield</Circuit>
+    <Map>Zeltweg</Map>
+    <Country>United Kingdom</Country>
+  </row>
+  <row>
+    <Circuit/>
+    <Map/>
+    <Country>United Arab Emirates</Country>
+  </row>
+  <row>
+    <Circuit/>
+    <Map/>
+    <Country>Austria</Country>
+  </row>
+</data>
